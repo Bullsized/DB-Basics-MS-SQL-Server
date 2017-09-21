@@ -1,6 +1,6 @@
 <b><h1>Databases Basics - MS SQL Server - Sept-Oct 2017</h1></b>
 
-<a href="https://i.imgur.com/Fv12iqH.png"></a>
+<img src="https://i.imgur.com/Fv12iqH.png"></img>
 
 1 RESOURCES
 
