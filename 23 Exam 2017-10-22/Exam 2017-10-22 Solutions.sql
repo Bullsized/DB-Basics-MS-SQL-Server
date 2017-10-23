@@ -304,6 +304,11 @@ INNER JOIN inserted AS i
 		   END
 
 --20
+/* 
+	props to Ruskovweb for this solution, link to his solutions:
+	https://github.com/ruskovweb/SoftUni/tree/master/03-C%23%20DB%20Fundamentals/01-Databases%20Basics%20-%20MS%20SQL%20Server/Databases%20MSSQL%20Server%20Exam%20-%2022%20October%202017/DBBasicExam-22.10.2017
+	
+*/
 SELECT [Category Name],
 	Waitings + InProgress AS [Reports Number],
 	CASE
